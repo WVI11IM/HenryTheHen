@@ -1,3 +1,5 @@
+itch.io page: https://wvi11im.itch.io/henry-the-hen
+
 In this 2D top-down shooter mobile game, you control Henry, a chicken that got locked out of the chicken coop at night and now must survive the predators, collect items and shoot eggs to get himself out of this mess!
 
 There are 6 levels in total, which are split into 3 different objectives: Survival (survive for an amount of time), Search and Destroy (defeat an amount of enemies) and Rescue (rescue an amount of chicks and bring all of them to the chicken coup).
