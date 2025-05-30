@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 20f709c0a72d8bd46afc547fde92858f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fence
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 18}
+        - {x: -5, y: 16}
+        - {x: -5, y: -3}
+        - {x: -3, y: -6}
+        - {x: 3, y: -6}
+        - {x: 5, y: -3}
+        - {x: 5, y: 16}
+        - {x: 3, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d189c1507ac1248acf368f9a229ec5
+      internalID: 286644254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenceUD
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 30}
+        - {x: -2, y: 19}
+        - {x: -5, y: 16}
+        - {x: -5, y: -3}
+        - {x: -2, y: -7}
+        - {x: -2, y: -9}
+        - {x: 2, y: -9}
+        - {x: 2, y: -7}
+        - {x: 5, y: -3}
+        - {x: 5, y: 16}
+        - {x: 2, y: 19}
+        - {x: 2, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea613b911b8a884479b1a25a477597cc
+      internalID: 1322295426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenceU
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 30}
+        - {x: -2, y: 30}
+        - {x: -2, y: 19}
+        - {x: -5, y: 16}
+        - {x: -5, y: -3}
+        - {x: -3, y: -6}
+        - {x: 3, y: -6}
+        - {x: 5, y: -3}
+        - {x: 5, y: 16}
+        - {x: 2, y: 19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82acb02fe4a202c4b93ae87cf719177f
+      internalID: 603288389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenceD
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 18}
+        - {x: -5, y: 16}
+        - {x: -5, y: -3}
+        - {x: -2, y: -7}
+        - {x: -2, y: -9}
+        - {x: 2, y: -9}
+        - {x: 2, y: -7}
+        - {x: 5, y: -3}
+        - {x: 5, y: 16}
+        - {x: 3, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f160c38f3f28ed546a74531f21f99137
+      internalID: -1725894820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenceR
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 13}
+        - {x: 5, y: 16}
+        - {x: 3, y: 18}
+        - {x: -3, y: 18}
+        - {x: -5, y: 16}
+        - {x: -5, y: -3}
+        - {x: -3, y: -6}
+        - {x: 3, y: -6}
+        - {x: 5, y: -3}
+        - {x: 5, y: -1}
+        - {x: 17, y: -1}
+        - {x: 17, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18178c3265aa2304b8c0ca08081e2314
+      internalID: -1002119094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenceLR
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 18}
+        - {x: -5, y: 16}
+        - {x: -5, y: 13}
+        - {x: -17, y: 13}
+        - {x: -17, y: -1}
+        - {x: -5, y: -1}
+        - {x: -5, y: -3}
+        - {x: -3, y: -6}
+        - {x: 3, y: -6}
+        - {x: 5, y: -3}
+        - {x: 5, y: -1}
+        - {x: 17, y: -1}
+        - {x: 17, y: 13}
+        - {x: 5, y: 13}
+        - {x: 5, y: 16}
+        - {x: 3, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea895b19fce38c54191f178baeb98652
+      internalID: -143871317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenceUR
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 30}
+        - {x: -2, y: 19}
+        - {x: -5, y: 16}
+        - {x: -5, y: -3}
+        - {x: -3, y: -6}
+        - {x: 3, y: -6}
+        - {x: 5, y: -3}
+        - {x: 5.0000305, y: -1.024004}
+        - {x: 17, y: -1}
+        - {x: 17, y: 13}
+        - {x: 5, y: 13}
+        - {x: 5, y: 16}
+        - {x: 2, y: 19}
+        - {x: 2, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd254f5e1001dba4495463f600ff3922
+      internalID: 969387778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fenceRD
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 3
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 18}
+        - {x: -5, y: 16}
+        - {x: -5, y: -3}
+        - {x: -2, y: -7}
+        - {x: -2, y: -9}
+        - {x: 2, y: -9}
+        - {x: 2, y: -7}
+        - {x: 5, y: -3}
+        - {x: 5, y: -1}
+        - {x: 17, y: -1}
+        - {x: 17, y: 13}
+        - {x: 5, y: 13}
+        - {x: 5, y: 16}
+        - {x: 3, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297264dc56560614788925c16bf2d86d
+      internalID: 436338110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fenceRD: 286644254
+      fenceLR: 1322295426
+      fenceUR: 603288389
+      fenceUD: -1725894820
+      fence: -1002119094
+      fenceU: -143871317
+      fenceR: 969387778
+      fenceD: 436338110
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

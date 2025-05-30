@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Damager
+  - PowerUp
+  - Enemy
+  - Spikes
+  - Mud
+  - Chick
+  - Coop
+  - Music
+  - FX
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Damager
+  - Player
+  - Enemy
+  - Walls
+  - Floor
+  - PowerUp
+  - Enemy(Morcego)
+  - Chick
+  - SpawnPoint
+  - Coop
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: World
+    uniqueID: 2879167673
+    locked: 0
+  - name: Obstacles(Behind)
+    uniqueID: 3752003831
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Obstacles(Front)
+    uniqueID: 1332686957
+    locked: 0
+  - name: Bats
+    uniqueID: 3428482405
+    locked: 0
+  - name: UI
+    uniqueID: 3056459207
+    locked: 0
