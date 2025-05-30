@@ -1,5 +1,7 @@
 In this 2D top-down shooter mobile game, you control Henry, a chicken that got locked out of the chicken coop at night and now must survive the predators, collect items and shoot eggs to get himself out of this mess!
+
 There are 6 levels in total, which are split into 3 different objectives: Survival (survive for an amount of time), Search and Destroy (defeat an amount of enemies) and Rescue (rescue an amount of chicks and bring all of them to the chicken coup).
+
 The core mechanic of this game are Henry's movement and attack, which are linked together in a way that the player has to aim the egg being shot and use the recoil to move the chicken to the opposite direction.
 
 Contributions:
